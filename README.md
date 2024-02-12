@@ -1,4 +1,4 @@
-# Simulador-de-Escalonamento-de-Processos
+# Simulador de Escalonamento de Processos
 
 Este repositório contém um simulador de escalonamento de processos em linguagem C. O simulador utiliza filas para representar o estado dos processos em diferentes etapas do escalonamento, como "Pronto", "Espera", "Execução" e "Finalizados". O escalonamento é realizado utilizando um algoritmo de preempção baseado em um intervalo de tempo chamado de "quantum".
 
